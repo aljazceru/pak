@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Debug
+.debug/
+
+# Build output
+dist/
+build/
+out/
+
+# Config files
+.pubky-debug-config.json
+
+# Coverage
+coverage/
+
+# Misc
+*.bak
+*.tmp

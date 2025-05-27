@@ -1,0 +1,21 @@
+{
+  "name": "pak",
+  "version": "1.0.0",
+  "description": "pak - Swiss Army Knife CLI for Pubky ecosystem",
+  "main": "index.js",
+  "bin": {
+    "pak": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["pubky", "debug", "cli", "p2p", "decentralized"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@synonymdev/pubky": "^0.4.1",
+    "commander": "^12.0.0",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2"
+  }
+}
