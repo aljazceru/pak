@@ -5,7 +5,9 @@ A Swiss Army Knife CLI for the Pubky ecosystem. This tool provides a comprehensi
 ## Installation
 
 ```bash
-npm install -g pak
+git clone https://github.com/aljazceru/pak.git
+cd pak
+npm install -g .
 ```
 
 ## Usage
